@@ -1,6 +1,6 @@
-# MinimalCord
+# minimalCord-gruvBox discord theme
 
-[MinimalCord](https://github.com/DiscordStyles/MinimalCord) with [gruvBox](https://github.com/morhetz/gruvbox) colours
+[MinimalCord](https://github.com/DiscordStyles/MinimalCord) discord theme with [gruvBox](https://github.com/morhetz/gruvbox) colours
 
 ![Server Chat - DARK](https://i.imgur.com/YomeMzv.png)
 ![Server Chat - LIGHT](https://i.imgur.com/oyv7K22.png)
