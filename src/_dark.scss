@@ -1,19 +1,17 @@
-$background: #171a1f;
-
 .theme-dark,
 html.theme-dark #app-mount .theme-light .root-1gCeng,
 html.theme-dark .force-theme.theme-light {
   // Background
-  --background-light: #{lighten($background, 5%)};
-  --background-light-alt: #{lighten($background, 3.5%)};
-  --background: #{$background};
-  --background-alt: #{lighten($background, 2%)};
-  --background-dark: #{darken($background, 2%)};
+  --background-light: #665c54;
+  --background-light-alt: #504945;
+  --background: #282828;
+  --background-alt: #32302f; 
+  --background-dark: #1d2021;
 
   // Text colours
-  --text-normal: #{mix(#fff, $background, 65%)};
-  --text-muted: #{mix(#fff, $background, 25%)};
-  --text-focus: #fff;
+  --text-normal: #ebdbb2;
+  --text-muted: #d5c4a1;
+  --text-focus: #fbf1c7;
 
   // Font weights
   --font-weight-light: 300;
@@ -32,6 +30,6 @@ html.theme-dark .force-theme.theme-light {
   --edit-message-box: var(--background-light);
   --message-background: var(--background-alt);
 
-  // Stupid Discord vars
+  // Stupid Discord vars (yuck)
   --header-primary: var(--text-focus);
 }
