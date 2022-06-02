@@ -5,13 +5,13 @@
 	"dev": [
 		{
 			"target": ["src", "main.scss"],
-			"output": "MinimalCord.theme.css"
+			"output": "minimalCord-gruvBox.theme.css"
 		}
 	],
 	"build": [
 		{
 			"target": ["src", "_base.scss"],
-			"output": ["dist", "dist", "MinimalCord.css"]
+			"output": ["dist", "dist", "minimalCord-gruvBox.css"]
 		}
 	]
 }
