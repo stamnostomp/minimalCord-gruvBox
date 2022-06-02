@@ -2,8 +2,8 @@
 
 MinimalCord with gruvBox colours
 
-![Server Chat - DARK](https://i.imgur.com/WdGfaDb.png)
-![Server Chat - LIGHT](https://i.imgur.com/jBw6IRg.png)
+![Server Chat - DARK](https://i.imgur.com/YomeMzv.png)
+![Server Chat - LIGHT](https://i.imgur.com/oyv7K22.png)
 
 ## Download
 
