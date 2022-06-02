@@ -1,14 +1,13 @@
 # MinimalCord
 
-Changes Discord enough to give it a fresh feel while also making it darker. Supports both Light and Dark themes.
+MinimalCord with gruvBox colours
 
 ![Server Chat - DARK](https://i.imgur.com/WdGfaDb.png)
 ![Server Chat - LIGHT](https://i.imgur.com/jBw6IRg.png)
 
 ## Download
 
-BetterDiscord Download: [https://betterdiscord.app/theme/MinimalCord](https://betterdiscord.app/Download?id=125)  
-Powercord Install: `git clone https://github.com/DiscordStyles/MinimalCord`
+Powercord Install: `git clone https://github.com/stamnostomp/minimalCord-gruvBox`
 
 ## Contributing
 
